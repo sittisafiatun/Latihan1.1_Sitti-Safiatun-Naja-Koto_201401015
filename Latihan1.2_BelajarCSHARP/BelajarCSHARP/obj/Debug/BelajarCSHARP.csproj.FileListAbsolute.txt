@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\Latihan1.2_BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\Latihan1.2_BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Latihan1.2_BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\Latihan1.2_BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Latihan1.2_BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Latihan1.2_BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.pdb

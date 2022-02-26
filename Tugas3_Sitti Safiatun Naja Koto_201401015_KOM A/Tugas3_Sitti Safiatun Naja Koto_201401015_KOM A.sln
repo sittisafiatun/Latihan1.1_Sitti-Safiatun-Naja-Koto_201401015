@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas3_Sitti Safiatun Naja Koto_201401015_KOM A", "Tugas3_Sitti Safiatun Naja Koto_201401015_KOM A\Tugas3_Sitti Safiatun Naja Koto_201401015_KOM A.csproj", "{29932AD2-70A4-4DAF-8DE5-F0035DBBBD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29932AD2-70A4-4DAF-8DE5-F0035DBBBD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29932AD2-70A4-4DAF-8DE5-F0035DBBBD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29932AD2-70A4-4DAF-8DE5-F0035DBBBD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29932AD2-70A4-4DAF-8DE5-F0035DBBBD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
